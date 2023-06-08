@@ -1,5 +1,5 @@
 # PYTN_KampusMerdeka_fp2_Krisna-Winar-Setiawan
-# Projects Overview
+## Projects Overview
 Database ini memiliki 23 atribut. Dengan data hujan harian selama 10 tahun di Australia,
 kolom RainTomorrow adalah target variable yang mau kita prediksi. Jika “Yes” maka
 besok harinya disana hujan 1mm atau lebih.
@@ -36,5 +36,5 @@ langit cerah, jika 8, langit sepenuhnya tertutup awan.
 melebihi 1mm, maka nilai ini adalah 1, jika tidak nilai nya 0
 23. RainTomorrow - variable yang mau di prediksi
 
-# KESIMPULAN
+## KESIMPULAN
 Untuk Hasil akhiir Classification algoritma Logistic Regression memiliki performa yang lebih baik dari yang algoritma yang lain seperti SVM, KNN, dan Random Forest. Hasil classification diatas dapat dilihat bahwa proses klasifikasi dengan dataset menghasilkan accuracy sebesar 0.84. 
